@@ -1,4 +1,4 @@
-# Привет ✋ Меня зовут Наталья!
+## Привет ✋ Меня зовут Наталья!
 
 [![image](https://github.com/Lanfrena/Lanfrena/assets/170114397/ec893613-19be-41b7-9b1a-238061319f97)](https://t.me/lanfrena) 
 
