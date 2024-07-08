@@ -7,7 +7,7 @@
 [Tableau](<https://public.tableau.com/app/profile/natalia.shishkova/vizzes>)
 
 ---
-#### ОСНОВНЫЕ ИНСТРУМЕНТЫ:
+#### ⚒️ ОСНОВНЫЕ ИНСТРУМЕНТЫ:
 [![image](https://camo.githubusercontent.com/def6ad2b823eaa2913f46e46598441343f4863ca2d12044bd0fa76628f28643c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e)](https://www.python.org/)
 [![image](https://camo.githubusercontent.com/da027079ccf94fa4b4944c31991d83a6d205d17b78b35f5df74b73de6a2332fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://pandas.pydata.org/docs/reference/index.html)
 [![image](https://camo.githubusercontent.com/20a27700804acdabda6c74063b7b61a37ccb0af10fc412fd229c006ff397478d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)](https://numpy.org/doc/stable/reference/index.html)
@@ -22,7 +22,7 @@
 
 ---
 
-#### МОИ ПРОЕКТЫ:
+#### 📝 МОИ ПРОЕКТЫ:
 | название     | описание  | программа| стек 
 :----|:-----------|:------|:------------
 |красный | 1| 256
