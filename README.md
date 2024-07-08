@@ -1,7 +1,10 @@
 ## Привет ✋ Меня зовут Наталья!
 
 
-#### 📫 КОНТАКТЫ: [Email](1772626@gmail.com), [Telegram](<https://t.me/Lanfrena>), [Tableau](<https://public.tableau.com/app/profile/natalia.shishkova/vizzes>)
+#### 📫 КОНТАКТЫ: 
+[1772626@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=1772626@gmail.com), 
+[Telegram](<https://t.me/Lanfrena>), 
+[Tableau](<https://public.tableau.com/app/profile/natalia.shishkova/vizzes>)
 
 ---
 #### ОСНОВНЫЕ ИНСТРУМЕНТЫ:
