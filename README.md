@@ -28,6 +28,6 @@
 |[Анализ покупателей коммерческой организации](https://github.com/Lanfrena/Project_E-commerce) | Анализ покупателей по кол-ву покупок, по дням недели, выполнение когортного анализа и визуализация на тепловой карте, проведение  RFM-анализа и описание клиентов по сегментам| python, numpy, seaborn, matplotlib, plotly |  Jupyter Notebook
 |[Анализ приложения знакомств](https://github.com/Lanfrena/A-B_test_statistic_dating_app)  |Анализ нового алгоритма на сайте приложения: А/В тестирование, проверка на нормальность, построение доверительных интервалов, регрессионный анализ| python, numpy, seaborn, matplotlib, scipy, pingouin, statsmodels | Jupyter Notebook
 |[Анализ приложения доставки](https://github.com/Lanfrena/A-B_test_statistic_delivery_app) | Анализ новой системы рекомендаций в приложении доставки: определение метрик,  проверка гипотез с помощью Т-теста Стьюдента и визуализация полученных данных  | python, numpy, seaborn, matplotlib, scipy, pingouin, statsmodels|Jupyter Notebook
-| tableau| анализ потребительского рынка | bar chart
+|[Анализ рынка вакансий Аналитики и BI](https://github.com/Lanfrena/Tableau_Job_market_analysis_Analysts_and_BI)| Расчет активных вакансий и средней зарплаты по городам и ключевому слову, динамика вакансий по параметру, визуализация на карте и в таблицах | фактоиды, таблицы, параметр, line chart, bar chart, map chart | Tableau
 
 
