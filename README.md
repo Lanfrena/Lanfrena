@@ -1,7 +1,7 @@
 ## Привет ✋ Меня зовут Наталья!
 Аналитик с финансовым образованием и опытом работы в HoReCa: управляла финансовыми и маркетинговыми стратегиями, оптимизировала расходы благодаря аналитическому подходу.
 
-Для работы с данными применяю Python (pandas, numpy, seaborn, mathplotlib, plotly, scipy, pandahouse, requests, urlencode) и SQL (select, from, where, group by, having, order by, join, with, оконные функции PostgreSQL, create table, drop table, insert into, alter table), визуализирую данные в Tableau, применяю в работе Git, провожу A/B тестирование для проверки гипотез.
+Для работы с данными применяю Python (pandas, numpy, seaborn, mathplotlib, plotly, scipy, pandahouse, requests, urlencode) и SQL (select, from, where, group by, having, order by, join, with, оконные функции PostgreSQL, create table, drop table, insert into, alter table), визуализирую данные в Tableau, применяю в работе Git, Airflow, провожу A/B тестирование для проверки гипотез.
 
 Умею налаживать позитивную коммуникацию в команде, ответственна, организована. Быстро обучаюсь и творчески подхожу к решению проблем.
 
