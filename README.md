@@ -32,9 +32,9 @@
 ---
 #### 📄  МОИ СЕРТИФИКАТЫ:
 
-[Stepik. Поколение Python](https://stepik.org/cert/2362014)
+[Stepik Python](https://stepik.org/cert/2362014)
 
-[Karpov.courses. Аналитик данных]()
+[Karpov.courses Data Analyst]()
 
 ---
 
