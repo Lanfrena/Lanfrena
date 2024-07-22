@@ -36,6 +36,8 @@
 
 [Поколение Python - Stepik, Тимур Гуев](https://stepik.org/cert/2362014)
 
+[BI разработчик. Основы работы в Tableau - Stepik, Артём Прытков](https://stepik.org/course/56280/syllabus)
+
 [Высшее экономическое образование - Финансовый университет при Правительстве РФ](http://www.fa.ru/Pages/Home.aspx)
 
 ---
