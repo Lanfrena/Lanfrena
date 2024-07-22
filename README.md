@@ -32,9 +32,10 @@
 ---
 #### 📄  МОИ СЕРТИФИКАТЫ:
 
-[Stepik Python](https://stepik.org/cert/2362014)
+[Аналитик данных - KARPOV.COURSES]()
 
-[Karpov.courses Data Analyst]()
+[Поколение Python - Stepik, Тимур Гуев](https://stepik.org/cert/2362014)
+
 
 ---
 
