@@ -37,7 +37,7 @@
 
 [Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/34f242f7-2657-4be8-82f4-18c490781c9b/)
 
-[Поколение Python - Stepik, Тимур Гуев](https://stepik.org/cert/2362014)
+[Поколение Python - Stepik, Тимур Гуев](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
 
 [Высшее экономическое образование - Финансовый университет при Правительстве РФ](http://www.fa.ru/Pages/Home.aspx)
 
