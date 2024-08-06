@@ -1,7 +1,7 @@
 ## Привет ✋ Меня зовут Наталья!
 Аналитик с финансовым образованием и опытом работы в HoReCa: управляла финансовыми и маркетинговыми стратегиями, оптимизировала расходы благодаря аналитическому подходу.
 
-Для работы с данными применяю Python (pandas, numpy, seaborn, matplotlib, plotly, scipy, pandahouse, requests, urlencode) и SQL (select, from, where, group by, having, order by, join, with, оконные функции PostgreSQL, create table, drop table, insert into, alter table), визуализирую данные в Tableau, применяю в работе Git, Airflow, провожу A/B тестирование для проверки гипотез.
+Для работы с данными применяю Python (pandas, numpy, seaborn, matplotlib, plotly, scipy, pandahouse, requests, urlencode) и SQL, визуализирую данные в Tableau, применяю в работе Git, Airflow, провожу A/B тестирование для проверки гипотез.
 
 Умею налаживать позитивную коммуникацию в команде, ответственна, организована. Быстро обучаюсь и творчески подхожу к решению проблем. Знаю как применить аналитические навыки для выполнения целей бизнеса. Развиваюсь в сфере аналитики, которая постоянно меняется и требует постоянного обучения.
 
@@ -38,6 +38,8 @@
 [Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/34f242f7-2657-4be8-82f4-18c490781c9b/)
 
 [Поколение Python - Stepik, Тимур Гуев](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
+
+[Интерактивный тренажер по SQL - Stepik, Озерова Г.П.](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
 
 [Информационные технологии. Работа с электронными таблицами Excel - Stepik, преподаватели Экономического Университета им. Г.В. Плеханова](https://stepik.org/certificate/2c911e4b44f4f95043df80d38cd1e3411534b33a.pdf)
 
