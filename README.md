@@ -43,13 +43,13 @@
 
 [Интерактивный тренажер по SQL - Stepik, Озерова Г.П.](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
 
+[Основы Python - KARPOV.COURSES](https://lab.karpov.courses/certificate/3cabe6b4-50dd-4160-a8b7-249ba6b201d3/)
+
 [Поколение Python - Stepik, Тимур Гуев](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
 
 [Markdown - Stepik, Сергей Романенко](https://stepik.org/certificate/6ea1549d472f10d980885834baaf56bfc80ec8f8.pdf)
 
 [Работа с электронными таблицами Excel - Stepik, преподаватели Университета им. Г.В. Плеханова](https://stepik.org/certificate/2c911e4b44f4f95043df80d38cd1e3411534b33a.pdf)
-
-[Высшее экономическое образование - Финансовый университет при Правительстве РФ](http://www.fa.ru/Pages/Home.aspx)
 
 ---
 
