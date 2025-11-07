@@ -52,6 +52,8 @@
 
 [Excel - Stepik, преподаватели Университета им. Г.В. Плеханова](https://stepik.org/certificate/2c911e4b44f4f95043df80d38cd1e3411534b33a.pdf)
 
+[Excel Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
+
 ---
 
 #### 🧑‍💻 МОИ ПРОЕКТЫ:
