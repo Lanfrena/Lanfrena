@@ -47,6 +47,8 @@
 
 [Excel Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
 
+[Макросы VBA](https://stepik.org/cert/3023219)
+
 ---
 
 #### 🧑‍💻 МОИ ПРОЕКТЫ:
