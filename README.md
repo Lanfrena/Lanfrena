@@ -1,7 +1,7 @@
 ## Привет ✋ Меня зовут Наталья!
 
 #### 📫 КОНТАКТЫ: 
-[![gmail](https://www.flaticon.com/ru/free-icon/gmail_5968534)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=1772626@gmail.com)
+[![gmail]()
 [![telegram](https://camo.githubusercontent.com/e6792fd861d9e745d4f19ece2ab9b365bada617c1cb915b1ccad31288b558693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d)](<https://t.me/Lanfrena>)
 
 Я — аналитик с финансовым образованием и опытом работы в HoReCa, где управляла финансовыми и маркетинговыми стратегиями, оптимизировала расходы, благодаря своему аналитическому подходу.
