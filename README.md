@@ -32,6 +32,8 @@
 
 [Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/34f242f7-2657-4be8-82f4-18c490781c9b/)
 
+[Excel Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
+
 [Симулятор SQL - KARPOV.COURSES](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/)
 
 [Интерактивный тренажер по SQL - Stepik, Озерова Г.П.](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
@@ -40,13 +42,11 @@
 
 [Поколение Python - Stepik, Тимур Гуев](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
 
-[Markdown - Stepik, Сергей Романенко](https://stepik.org/certificate/6ea1549d472f10d980885834baaf56bfc80ec8f8.pdf)
-
 [Excel - Stepik, преподаватели Университета им. Г.В. Плеханова](https://stepik.org/certificate/2c911e4b44f4f95043df80d38cd1e3411534b33a.pdf)
 
-[Excel Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
-
 [Макросы VBA](https://stepik.org/cert/3023219)
+
+[Markdown - Stepik, Сергей Романенко](https://stepik.org/certificate/6ea1549d472f10d980885834baaf56bfc80ec8f8.pdf)
 
 ---
 
