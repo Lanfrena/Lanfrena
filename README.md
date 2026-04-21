@@ -42,11 +42,7 @@
 
 [Поколение Python - Stepik, Тимур Гуев](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
 
-[Excel - Stepik, преподаватели Университета им. Г.В. Плеханова](https://stepik.org/certificate/2c911e4b44f4f95043df80d38cd1e3411534b33a.pdf)
-
 [Макросы VBA](https://stepik.org/cert/3023219)
-
-[Markdown - Stepik, Сергей Романенко](https://stepik.org/certificate/6ea1549d472f10d980885834baaf56bfc80ec8f8.pdf)
 
 ---
 
