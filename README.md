@@ -35,9 +35,7 @@
 
 [Excel Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
 
-[Симулятор SQL - KARPOV.COURSES](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/)
-
-[Интерактивный тренажер по SQL - Stepik, Озерова Г.П.](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
+[Симулятор SQL - KARPOV.COURSES](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/), [Интерактивный тренажер по SQL - Stepik, Озерова Г.П.](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
 
 [Основы Python - KARPOV.COURSES](https://lab.karpov.courses/certificate/3cabe6b4-50dd-4160-a8b7-249ba6b201d3/)
 
