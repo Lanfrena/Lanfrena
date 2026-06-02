@@ -35,6 +35,8 @@
 
 [Power Query и Pivot (+BI)](https://stepik.org/cert/3011855)
 
+[DAX](https://stepik.org/cert/3271393)
+
 [Оконные функции SQL](https://stepik.org/cert/3233518)
 
 [Симулятор SQL](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/),   [Интерактивный тренажер по SQL](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
