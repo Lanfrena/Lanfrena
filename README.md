@@ -39,9 +39,9 @@
 
 [DAX](https://stepik.org/cert/3271393)
 
-[Оконные функции SQL](https://stepik.org/cert/3233518), [Симулятор SQL](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/), [Интерактивный тренажер по SQL](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf)
+[Оконные функции SQL](https://stepik.org/cert/3233518), [Симулятор SQL](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/), [Интерактивный тренажер по SQL](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf), [Тренажер по SQL](https://stepik.org/cert/3287015)
 
-[Основы Python](https://lab.karpov.courses/certificate/3cabe6b4-50dd-4160-a8b7-249ba6b201d3/),   [Поколение Python](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
+[Основы Python](https://lab.karpov.courses/certificate/3cabe6b4-50dd-4160-a8b7-249ba6b201d3/), [Поколение Python](https://stepik.org/certificate/6f7fb005fe5e96017c04a5b1c28042c059b16cd6.pdf)
 
 [Макросы VBA](https://stepik.org/cert/3023219)
 
