@@ -33,7 +33,7 @@
 
 [Аналитик данных - KARPOV.COURSES](https://lab.karpov.courses/certificate/34f242f7-2657-4be8-82f4-18c490781c9b/)
 
-[Power Query и Pivot (+BI)](https://stepik.org/cert/3011855) | [DAX](https://stepik.org/cert/3271393) | [Power BI, DAX](https://stepik.org/cert/3169066)
+[Power BI Service](https://stepik.org/cert/3299340) | [DAX](https://stepik.org/cert/3271393) | [Power Query и Pivot (+BI)](https://stepik.org/cert/3011855) | [Power BI, DAX](https://stepik.org/cert/3169066)
 
 [Оконные функции SQL](https://stepik.org/cert/3233518) | [Симулятор SQL](https://lab.karpov.courses/certificate/4db28767-faa7-42af-b6a2-9d9b505bbd8b/) | [Интерактивный тренажер по SQL](https://stepik.org/certificate/ad87ad1394842bcfce4784e2c978f5b0a024768a.pdf) | [Тренажер по SQL](https://stepik.org/cert/3287015)
 
